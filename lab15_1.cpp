@@ -24,5 +24,5 @@ int main() {
     **z = 7;
     cout << a << " " << b << " " << c << " " << x << " " << (void*)y << " " << z << endl;
 
-    return 0;
+    return 0; 
 }
